@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/tortoisebot/catkin_ws/carto_ws/devel_isolated/pcl_conversions/setup.sh
